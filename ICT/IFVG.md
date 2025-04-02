@@ -1,4 +1,4 @@
 <p>Bozor FVG xosil qiladi . Yaqin kelajakda bozor FVG ga qaytib yana trend (yo'nalishi) bo'ylab xarakatni davom ettiradi . Lekin bozor FVG ga qayta (yani 2marta dan ko'p qaytib kelsa) candle (shamcha) soyasi bilan emas  badani (body) bilan  FVG dan pasda yopilsa FVG o'z kuchini yo'qotadi va bunday FVG dan bozorga kirish judayam xavfli xisoblanadi . Bozor trendi o'zgarganda ( buy === sell ) yani qarama qarshi tomonga yurganida ko'p xollarda FVG ni impuls bilan buzib o'tadi va boshqa Candle FVG ga kirib (ko'pincha xolatlarda unchalik katta sezilarli bo'lmagan tarzda FVG ni buzadi . Endi bu safar FVG ning vazifasi o'zgaradi va endi u FVG emas , balki IFVG deb nomlanadi . (Inversion Fair Value Gap) </p>
 
 
-[img text](../img/ifvg.jpg)
+[alt text](../img/ifvg.jpg)
